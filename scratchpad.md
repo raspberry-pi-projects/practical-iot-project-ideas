@@ -3,6 +3,12 @@
 ### Yet to Find
 * Home Automation
 * Power pet feeder
+* Drawer lights
+* Kitchen counter LED strip on motion
+
+### Captive Portal
+* https://blog.trifork.com/2013/01/15/building-a-captive-portal-controlling-access-to-the-internet-from-your-network/
+* https://pimylifeup.com/raspberry-pi-captive-portal/
 
 ### Multi-Room Music Player
 * https://www.instructables.com/id/Raspberry-Pi-Multi-Room-Music-Player/
